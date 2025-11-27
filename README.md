@@ -4,7 +4,7 @@ Work In Progress!
 
 🎵 MusicStram: Online Music Streaming Platform!
 
-VibeHub is a scalable, user-centric online music streaming system built using the Java Web Stack (J2EE). It connects Listeners, Artists, and Admins in a seamless ecosystem, allowing users to stream music,
+MusicStram is a scalable, user-centric online music streaming system built using the Java Web Stack (J2EE). It connects Listeners, Artists, and Admins in a seamless ecosystem, allowing users to stream music,
 create playlists, and follow artists while Admins maintain platform integrity.
 🚀 Key Features
 🛡️ Admin (System Manager)
